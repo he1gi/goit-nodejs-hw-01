@@ -1,4 +1,4 @@
-https://ibb.co/HCBcxg9
-https://ibb.co/6ZGgyRs
-https://ibb.co/FhbqQ2Q
-https://ibb.co/2F9jhJ4
+https://ibb.co/HCBcxg9 - get contact by id.
+\nhttps://ibb.co/6ZGgyRs - get all contacts.
+\nhttps://ibb.co/FhbqQ2Q - add new contact.
+\nhttps://ibb.co/2F9jhJ4 - remove contact by id.
